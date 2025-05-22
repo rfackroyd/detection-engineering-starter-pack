@@ -1,6 +1,6 @@
 # 🛡️ Detection Engineering Starter Pack
 
-![Discord](https://img.shields.io/discord/<id>?color=5865F2&logo=discord&logoColor=white)
+![Discord](https://img.shields.io/discord/1332993005359202345?logo=discord)
 
 > **An opinionated list of essential resources for aspiring Detection Engineers.**
 
@@ -10,7 +10,7 @@ The goal of this starter pack is to provide a curated selection of resources to 
 
 ### 💬 **Join the Discord**
 
-Connect with others to discuss all things threat detection and security engineering.
+![Connect with others to discuss all things threat detection and security engineering.](https://discord.gg/HAVyDtUunu)
 
 ---
 
