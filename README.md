@@ -10,7 +10,7 @@ The goal of this starter pack is to provide a curated selection of resources to 
 
 ### 💬 **Join the Discord**
 
-![Connect with others to discuss all things threat detection and security engineering.](https://discord.gg/HAVyDtUunu)
+[Connect with others to discuss all things threat detection and security engineering.](https://discord.gg/HAVyDtUunu)
 
 ---
 
