@@ -116,7 +116,7 @@ The goal of this starter pack is to provide a curated selection of resources to 
 
 > **A handpicked selection of materials that have inspired me.**
 
-- [Detections.ai](https://detections.ai/) - An AI-powered and community-driven platform to share & improve detection rules.
+- [Detections.ai](https://detections.ai/) - An AI-powered and community-driven platform to share & improve detection rules. Use invite code `StarterPack`.
 - [ACEResponder](https://x.com/ACEResponder) - An X account sharing attacker techniques visually.
 - [Detect FYI](https://detect.fyi/) - A Medium publication focused solely on detection engineering.
 - [Detection Engineering Weekly](https://www.detectionengineering.net/) - A weekly newsletter on Detection Engineering.
