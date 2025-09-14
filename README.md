@@ -113,6 +113,7 @@ The goal of this starter pack is to provide a curated selection of resources to 
 
 - [Blue Team Labs Online](https://blueteamlabs.online/) - A platform for hands-on blue team training.
 - [ACE Responder](https://www.aceresponder.com/) - A realistic and immersive platform for existing cyber defenders and newcomers alike.
+- [SOCLabs](https://www.soc-labs.top) - A platform dedicated to SIEM query threat detection engineer learning and training.
 
 ---
 
