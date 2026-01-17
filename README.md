@@ -94,6 +94,10 @@ The goal of this starter pack is to provide a curated selection of resources to 
 - [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team) - A library of simple adversary emulation tests.
 - [TTPForge](https://github.com/facebookincubator/TTPForge) - A tool for creating and managing TTPs.
 
+#### 🧬 Data Engineering
+
+- [OCSF Schema](https://github.com/ocsf/ocsf-schema) - An open, vendor-neutral standard that defines a common, extensible schema for security events across multiple data formats.
+
 ---
 
 ## 📚 Useful Concepts
