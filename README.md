@@ -1,3 +1,35 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=rfackroyd&project=detection-engineering-starter-pack&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=rfackroyd&project=detection-engineering-starter-pack&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=rfackroyd&project=detection-engineering-starter-pack&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=rfackroyd&project=detection-engineering-starter-pack&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=rfackroyd&project=detection-engineering-starter-pack&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=rfackroyd&project=detection-engineering-starter-pack&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=rfackroyd&project=detection-engineering-starter-pack&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=rfackroyd&project=detection-engineering-starter-pack&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=rfackroyd&project=detection-engineering-starter-pack&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=rfackroyd&project=detection-engineering-starter-pack&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=rfackroyd&project=detection-engineering-starter-pack&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=rfackroyd&project=detection-engineering-starter-pack&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=rfackroyd&project=detection-engineering-starter-pack&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=rfackroyd&project=detection-engineering-starter-pack&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=rfackroyd&project=detection-engineering-starter-pack&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=rfackroyd&project=detection-engineering-starter-pack&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=rfackroyd&project=detection-engineering-starter-pack&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=rfackroyd&project=detection-engineering-starter-pack&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=rfackroyd&project=detection-engineering-starter-pack&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=rfackroyd&project=detection-engineering-starter-pack&lang=id">Bahasa Indonesia</a>
+        | <a href="https://openaitx.github.io/view.html?user=rfackroyd&project=detection-engineering-starter-pack&lang=as">অসমীয়া</
+      </div>
+    </div>
+  </details>
+</div>
+
 # 🛡️ Detection Engineering Starter Pack
 
 ![Discord](https://img.shields.io/discord/1332993005359202345?logo=discord)
