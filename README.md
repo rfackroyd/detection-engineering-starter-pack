@@ -122,6 +122,7 @@ The goal of this starter pack is to provide a curated selection of resources to 
 - [Detection Engineering Weekly](https://www.detectionengineering.net/) - A weekly newsletter on Detection Engineering.
 - [EDR Telemetry](https://www.edr-telemetry.com/) - A resource that compares popular EDR tools with one another.
 - [MITRE ATLAS](https://atlas.mitre.org/matrices/ATLAS) - ATT&CK, but for AI.
+- [DRAPE](https://github.com/inodee/drape/) - A simple heuristic metric to score detection performance using TP/FP counts.
 - [Prioritizing Detection Engineering](https://medium.com/starting-up-security/prioritizing-detection-engineering-b60b46d55051) - A well-written piece from Ryan McGeehan on how to think about prioritising your detection engineering efforts.
 - [How Google Does It](https://cloud.google.com/transform/how-google-does-it-modernizing-threat-detection) - How Google does threat detection at massive scale.
 - Notable security vendor blogs for defenders:
