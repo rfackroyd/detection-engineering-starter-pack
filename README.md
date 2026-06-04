@@ -158,3 +158,4 @@ The goal of this starter pack is to provide a curated selection of resources to 
 - [Awesome Threat Detection](https://github.com/0x4D31/awesome-threat-detection) - A collection of threat detection resources.
 - [Awesome Detection Engineer](https://github.com/st0pp3r/awesome-detection-engineer) - A list of resources for detection engineers.
 - [Blue Team Tools](https://github.com/A-poc/BlueTeam-Tools) - A collection of tools for blue teamers.
+- [Detection-Engineering Weekly](https://www.detectionengineering.net/about) - amazing newsletter on detection engineering , a place for security engineers to share and discuss resources .
