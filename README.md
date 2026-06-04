@@ -92,6 +92,8 @@ The goal of this starter pack is to provide a curated selection of resources to 
 #### 🤖 AI / LLM
 
 - [AiSOC](https://github.com/beenuar/AiSOC) - A self-hosted SOC platform that ingests security events, correlates them, and runs AI-driven investigation, surfacing results in a console with a full auditable decision trail.
+- [Detections.ai](https://detections.ai/) - An AI-powered and community-driven platform to share & improve detection rules. Use invite code `StarterPack`.
+- [MITRE ATLAS](https://atlas.mitre.org/matrices/ATLAS) - ATT&CK, but for AI.
 
 #### 🎭 Adversary Emulation
 
@@ -128,12 +130,10 @@ The goal of this starter pack is to provide a curated selection of resources to 
 
 > **A handpicked selection of materials that have inspired me.**
 
-- [Detections.ai](https://detections.ai/) - An AI-powered and community-driven platform to share & improve detection rules. Use invite code `StarterPack`.
 - [ACEResponder](https://x.com/ACEResponder) - An X account sharing attacker techniques visually.
 - [Detect FYI](https://detect.fyi/) - A Medium publication focused solely on detection engineering.
 - [Detection Engineering Weekly](https://www.detectionengineering.net/) - A weekly newsletter on Detection Engineering.
 - [EDR Telemetry](https://www.edr-telemetry.com/) - A resource that compares popular EDR tools with one another.
-- [MITRE ATLAS](https://atlas.mitre.org/matrices/ATLAS) - ATT&CK, but for AI.
 - [DRAPE](https://github.com/inodee/drape/) - A simple heuristic metric to score detection performance using TP/FP counts.
 - [Prioritizing Detection Engineering](https://medium.com/starting-up-security/prioritizing-detection-engineering-b60b46d55051) - A well-written piece from Ryan McGeehan on how to think about prioritising your detection engineering efforts.
 - [How Google Does It](https://cloud.google.com/transform/how-google-does-it-modernizing-threat-detection) - How Google does threat detection at massive scale.
