@@ -26,6 +26,7 @@ The goal of this starter pack is to provide a curated selection of resources to 
   - [📂 File Content Detection](#-file-content-detection)
   - [📊 SIEM (Security Information and Event Management)](#-siem-security-information-and-event-management)
   - [⚙️ SOAR (Security Orchestration Automation and Response)](#-soar-security-orchestration-automation-and-response)
+  - [🤖 AI / LLM](#-ai--llm)
   - [🎭 Adversary Emulation](#-adversary-emulation)
 - [📚 Useful Concepts](#-useful-concepts)
 - [🧪 Labs & Training](#-labs--training)
@@ -68,6 +69,8 @@ The goal of this starter pack is to provide a curated selection of resources to 
 - [Falco](https://github.com/falcosecurity/falco) - A cloud-native runtime security tool to detect threats within containers.
 - [Sysmon](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon) - A simple Windows system monitor.
 - [Osquery](https://www.osquery.io/) - An operating system instrumentation framework.
+- [Rustinel](https://github.com/Karib0u/rustinel) - A lightweight endpoint detection engine that collects telemetry via ETW, eBPF, and Endpoint Security, then evaluates Sigma rules, YARA scans, and IOC matches to generate alerts.
+- [Bumblebee](https://github.com/perplexityai/bumblebee) - A read-only inventory collector that scans machines for installed packages and developer tools, then checks them against known supply-chain compromises.
 
 #### 🌐 Network Detection
 
@@ -86,6 +89,10 @@ The goal of this starter pack is to provide a curated selection of resources to 
 
 - [Tines](https://www.tines.com/) - A no-code automation platform for security teams. Great for automating anything, quickly. Has a free tier.
 
+#### 🤖 AI / LLM
+
+- [AiSOC](https://github.com/beenuar/AiSOC) - A self-hosted SOC platform that ingests security events, correlates them, and runs AI-driven investigation, surfacing results in a console with a full auditable decision trail.
+
 #### 🎭 Adversary Emulation
 
 - [Adversary Emulation Library](https://github.com/center-for-threat-informed-defense/adversary_emulation_library) - A library of adversary emulation plans.
@@ -97,6 +104,7 @@ The goal of this starter pack is to provide a curated selection of resources to 
 #### 🧬 Data Engineering
 
 - [OCSF Schema](https://github.com/ocsf/ocsf-schema) - An open, vendor-neutral standard that defines a common, extensible schema for security events across multiple data formats.
+- [EvidenceForge](https://github.com/Cisco-Talos/EvidenceForge) - Generates realistic synthetic security logs across multiple formats with causally-ordered events, useful for testing detections and training without needing real incident data.
 
 ---
 
