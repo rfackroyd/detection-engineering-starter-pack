@@ -83,6 +83,7 @@ The goal of this starter pack is to provide a curated selection of resources to 
 #### 📊 SIEM (Security Information and Event Management)
 
 - [Elastic Stack (ELK)](https://www.elastic.co/elastic-stack) - A suite of tools for search, logging, and analytics.
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes, with proof of exploitation.
 - [Wazuh](https://wazuh.com/) - An open-source security monitoring platform.
 
 #### ⚙️ SOAR (Security Orchestration Automation and Response)
